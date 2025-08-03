@@ -25,26 +25,26 @@
 | `Python`         | Programming Language             |
 
 
-##🔧 How It Works
+## 🔧 How It Works
 
-- ✅ **Captures real-time video using OpenCV.
-- ✅ **YOLOv8 detects mobile phones (class: cell phone).
-- ✅ **MediaPipe FaceDetection counts number of faces.
-- ✅ **MediaPipe FaceMesh tracks eye landmarks.
-- ✅ **If mobile/multiple faces/no face → triggers:
+- ✅ Captures real-time video using OpenCV.
+- ✅ YOLOv8 detects mobile phones (class: cell phone).
+- ✅ MediaPipe FaceDetection counts number of faces.
+- ✅ MediaPipe FaceMesh tracks eye landmarks.
+- ✅ If mobile/multiple faces/no face → triggers:
        Beep alert
        Voice warning
        Snapshot saved and displayed
-- ✅ **Displays FPS and status updates on-screen.
+- ✅ Displays FPS and status updates on-screen.
 
 
-##🛡️ Use Cases
+## 🛡️ Use Cases
 - ✅Online Exam Monitoring
 - ✅Smart Classrooms
 - ✅Remote Interview Proctoring
 - ✅AI Surveillance Applications
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 Ayush
 IIT | Tech Enthusiast | AI-ML & Computer Vision Projects
