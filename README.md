@@ -32,9 +32,11 @@
 - ✅ MediaPipe FaceDetection counts number of faces.
 - ✅ MediaPipe FaceMesh tracks eye landmarks.
 - ✅ If mobile/multiple faces/no face → triggers:
+  
        Beep alert
        Voice warning
        Snapshot saved and displayed
+  
 - ✅ Displays FPS and status updates on-screen.
 
 
